@@ -1,6 +1,8 @@
 # cuncunapp
 
-A new Flutter project.
+Cuncun User apps developed by Hussain
+
+Technology" Flutter
 
 ## Getting Started
 
